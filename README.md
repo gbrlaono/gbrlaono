@@ -24,11 +24,11 @@
 ### 📈 GitHub Graphics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onogabriela&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gbrlaono&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onogabriela&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=ffffff&bg_color=0d1117" alt="Gabriela github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gbrlaono&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=ffffff&bg_color=0d1117" alt="Gabriela github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onogabriela&layout=compact&hide_border=true&title_color=bd93f9&text_color=ffffff&bg_color=0d1117" />
 </div>
 <br>
